@@ -1,9 +1,10 @@
-import Login from './pages/Login'
+/* import Login from './pages/Login' */
+import CadastroPaciente from './pages/CadastroPaciente'
 
 function App() {
   return (
     <div>
-      <Login />
+      <CadastroPaciente />
     </div>
   )
 }

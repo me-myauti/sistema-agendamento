@@ -43,7 +43,7 @@ export default function Login() {
           </div>
 
           <div className="button">
-            <button className="buttonlogin">Enviar</button>{' '}
+            <button className="buttonlogin">Entrar</button>{' '}
           </div>
         </form>
       </div>
